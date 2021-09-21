@@ -1,0 +1,5 @@
+geography_id|geography_name
+7000001|Tamilnadu
+7000002|Kerla
+7000003|gujarath
+7000004|Andhrapradesh

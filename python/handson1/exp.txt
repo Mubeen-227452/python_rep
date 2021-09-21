@@ -1,0 +1,6 @@
+NAME|123
+mub|zub
+zub|mub
+mmmm|xxx
+ggg|ddd
+ffff|dddd

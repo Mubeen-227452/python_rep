@@ -1,0 +1,11 @@
+f_name|m_name|l_name|ssn|apt_no|st_name|city|state|country|zip|phone|email
+larry|come|a|10001|390|west street|chennai|tn|us|600001|9845217601|larrycome@gmail.com
+nandhini|shankar|s|56743|620|balaji nagar|tirumala|ap|ind|517504|7799234567|nandinireddy.nr@gmail.com
+mubeen|mohaemd|m|56341|621|balaji nagar|tirumala|ap|ind|517504|9845236667|mubeen123@gmail.com
+sridhar|jhon|d|57943|622|balaji nagar|tirumala|ap|ind|517504|9445236837|sidhar76@gmail.com
+vijay|devarkonda|d|56987|78|nehru street|tirupathi|ap|ind|517501|9395235857|vijay8@gmail.com
+ajith|kumar|s|58193|2|nehru street|tirupathi|ap|ind|517501|9398848877|ajithkumar@gmail.com
+ward|smith|l|10007|45|barath nagar,1st cross|tiruvandram|kl|ind|800001|9584256215|wardsmith.a12gmail.com
+smith|ward|a|10017|52|barath nagar,2st cross|tiruvandram|kl|ind|800001|9584257562|smithward.a12gmail.com
+come|britch|a|10029|460|sothern cross|sengalpattu|tn|ind|601001|9845218501|comeb.come@hotmail.com
+neymar|jonal|jr|10125|542|east street|banglore|kr|ind|700001|9547821365|jonalfb.1@gmail.com
