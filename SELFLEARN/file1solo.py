@@ -6,3 +6,5 @@ for x in file:
     print()
 
 file.close()
+
+print("hi iam")
